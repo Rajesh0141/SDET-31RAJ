@@ -7,6 +7,10 @@ public class SampleTest {
 	public void RajTest() {
 		System.out.println("sendRequest");
 	}
+	@Test
+	public void RajTest123() {
+		System.out.println("sendRequest");
+	}
 	
 	
 
